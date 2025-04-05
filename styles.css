@@ -12,6 +12,10 @@
     grid-row: 1 / -1;
 }
 
+ul {
+    margin-top: 50px;
+}
+
 .header {}
 
 .main-content {}
